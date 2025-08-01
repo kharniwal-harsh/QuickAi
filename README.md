@@ -1,3 +1,5 @@
+![App logo](client/public/favicon.svg)  
+
 # QuickAI – AI SaaS Platform
 
 **Live Link:** [QuickAI](https://quickai-gs.vercel.app/)
