@@ -140,6 +140,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 **Harsh Kharniwal**
 
 * GitHub: [@harshkharniwal](https://github.com/kharniwal-harsh)
-* LinkedIn: [Harsh Kharniwal](https://www.linkedin.com/in/harshkharniwal9351)
+* LinkedIn: [Harsh Kharniwal](https://www.linkedin.com/in/harsh-kharniwal9351)
 
 Feel free to fork the project, raise issues, or contribute improvements!
